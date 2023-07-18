@@ -1,0 +1,13 @@
+Assignment: 
+
+
+create an Authentication System for a Point of Sale (POS) project using Laravel framework and JSON Web Tokens (JWT) for secure authentication.
+
+
+ 
+
+
+Submission Instruction :
+
+
+Please submit your github repository link.
